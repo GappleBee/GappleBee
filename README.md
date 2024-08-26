@@ -1,4 +1,4 @@
-- 👋 Hi all, I’m Calvin, aka @GappleBee!
+- 👋 Hi all, I’m Calvin
 - 👀 I'm interested in web programming and LeetCode problems
 - 🌱 I’m currently learning more about Django and contributing to it
 - 💞️ I’m looking to collaborate on anything, just hit me up!
