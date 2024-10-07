@@ -2,7 +2,7 @@
 - 👀 I'm interested in web programming and LeetCode problems
 - 🌱 I’m currently learning more about and contributing to Django
 - 💞️ I’m looking to collaborate on anything, just hit me up!
-- 📫 How to reach me: Discord - gapplebee
+- 📫 How to reach me: Discord - gapplebee; [LinkedIn](https://www.linkedin.com/in/calvin-vu-a84135317/)
 
 <!---
 GappleBee/GappleBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
