@@ -1,6 +1,6 @@
 - 👋 Hi all, I’m Calvin
 - 👀 I'm interested in web and competitive programming
-- 🌱 I’m currently learning more about and contributing to Django and React
+- 🌱 I’m currently learning more about and contributing to Django
 - 💞️ I’m looking to collaborate on anything, just hit me up!
 - 📫 How to reach me: [Email](mailto:GappleBeeGitHub@gmail.com) - [Discord](https://discord.com/users/744212225622933615) - [LinkedIn](https://www.linkedin.com/in/calvin-vu-a84135317/)
 
